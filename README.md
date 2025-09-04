@@ -3,7 +3,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 Computaçao em nuvem laboratorio:
 
-Nesse lab aprendemos sobre computaçao em nuvem e alguns dos seus serviços ma plataforama Azure:
+Nesse lab aprendemos sobre computaçao em nuvem e alguns dos seus serviços ma plataforma Azure:
 
 Segue alguns serviços e como e manipulado:
 
